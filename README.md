@@ -1,6 +1,13 @@
 # chill-typora-theme
 dark, laid back custom theme for typora.io
 
+---
+
+## Screenshot
+
+![screenshot](screenshot.png)
+
+---
 ## How to Install
 
 1. Open Typora
@@ -17,3 +24,8 @@ dark, laid back custom theme for typora.io
 1. Reload Typora
 1. Navigate to Typora > Preferences
 1. Change theme to 'Chill'
+
+---
+
+### Author
+Made with &hearts; by [@droxey](https://github.com/droxey)
