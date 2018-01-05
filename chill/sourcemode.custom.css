@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+
+.cm-s-typora-default .cm-header {
+    color: rgba(255, 255, 255, 0.90);
+}
+
+.cm-s-typora-default .cm-property {
+    color: var(--code-property-color);
+}
+
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor{
+    border-left: 3px solid #b8bfc6;
+}
+
+.cm-s-typora-default .cm-code {
+    color: var(--code-comment-color);
+}
+
+.cm-s-typora-default .cm-comment {
+    color: var(--code-comment-color);
+    font-family: 'FiraCode-Medium';
+}
+
+.cm-s-typora-default .cm-string {
+    color: var(--code-string-color);
+    font-family: 'FiraSans-Light';
+}
+
+.cm-s-typora-default .cm-atom, .cm-s-typora-default .cm-number {
+    color: var(--code-number-color);
+}
+
+.cm-s-typora-default .cm-link {
+    color: var(--code-tag-color);
+    font-family: 'FiraSans-Medium';
+}
+
+.cm-s-typora-default .CodeMirror-activeline-background {
+    background: rgba(255, 255, 255, 0.05);
+}
